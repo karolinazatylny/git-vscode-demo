@@ -1,7 +1,7 @@
   
 <html>
         <head>
-        <link rel="stylesheet" href="/style.css">
+        <link rel="stylesheet" href="assets/style.css">
         </head>
 <div class="nav"
         <h3>
